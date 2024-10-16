@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color:blueviolet;
+    color:white;
+    font-size: 2rem;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
